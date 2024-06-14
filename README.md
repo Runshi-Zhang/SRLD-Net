@@ -10,7 +10,7 @@ mmengine>=0.4.0,<1.0.0
 
 ## Train and infer
 The configs is located in /configs/3dnii/.
-The training and infering methods are according to [openmmlabe](https://mmsegmentation.readthedocs.io/en/latest/).
+The training and infering methods are according to [openmmlab](https://mmsegmentation.readthedocs.io/en/latest/).
 
 ## Reference and Acknowledgments
 [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
