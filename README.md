@@ -6,6 +6,8 @@ Here is the official implementation of the paper:
 The neck and head of our proposed SRLD-Net is 'SRLD-Net/mmseg/models/decode_heads/ourfuseuper_head.py'.
 And the SR-UNet is 'SRLD-Net/mmseg/models/decode_heads/srpose_head.py'.
 
+The heatmap-based encoding method is shown in heatmap.py.
+
 ## Requirments
 We trained our models depending on:
 Pytorch 1.13.1
